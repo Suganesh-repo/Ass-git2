@@ -1,2 +1,2 @@
 console.log("hello bois");
-console.group("hehes")
+console.group("hehesug")
